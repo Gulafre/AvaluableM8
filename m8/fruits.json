@@ -35,6 +35,10 @@
       {
          "name":"Watermelon",
          "color":"Red & Green"
+      },
+      {
+         "name":"Strawberry",
+         "color":"Red"
       }
    ]
 }
